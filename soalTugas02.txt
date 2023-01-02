@@ -1,0 +1,25 @@
+Buat automation dari halaman berikut :
+https://demoqa.com/webtables 
+Masukkan 3 buah data user sebagai berikut dengan menggunakan Selenium Python 
+Firstname, Lastname, Age, Email, Salary, Departemen. 
+
+Contoh: Firstname : Aria 
+Lastname : Suseno 
+Age : 200 
+Email : uno@idejongkok.co 
+Salary : Infinite 
+Departemen : Store 
+
+bikin 3
+
+Syarat wajib
+- tidak menggunakan bantuan library lain selain selenium dan library bawaan python
+
+Pengumpulan Tugas:
+- Simpan program di repository Github kalian.
+- Beri nama repository "pyautoid-bootcamp-nama".
+- ganti "nama" pada nama repo tersebut dengan nama masing-masing.
+- format nama file tugas02.py
+- Kirim link repo-nya ke DM Telegram
+- Paling lambat jam 6 Sore sebelum Session depan dimulai.
+- Silahkan berdiskusi di group kelas, tapi tidak saling share jawaban.
